@@ -1,8 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import reactCSS from 'reactcss'
-import map from 'lodash/map'
-import merge from 'lodash/merge'
+import map from 'lodash.map'
+import merge from 'lodash.merge'
 import * as material from 'material-colors'
 
 import { ColorWrap, Raised } from '../common'
